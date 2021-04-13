@@ -1,1 +1,1 @@
-# 19104081_Pemograman_GUI
+#Desain Layout Menggunakan QT Designer
