@@ -1,10 +1,10 @@
 # Desain menggunakan qt desainer
 
 adil el-faruqi 19104081
-https://ibb.co/T219vbR
+
 
 #Label
-
+https://ibb.co/T219vbR
 
 #Text Edit
 
