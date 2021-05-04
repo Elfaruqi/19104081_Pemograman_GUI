@@ -5,7 +5,7 @@ adil el-faruqi 19104081
 
 
 # Label
-![1](https://user-images.githubusercontent.com/72428662/117062289-7f043000-ad4d-11eb-82b9-f866799a8a2a.jpg)
+https://i.ibb.co/7CQsYRV/Screenshot-20210505-022902-Parallel-Space-64-Bit-Support.jpg
 
 
 
