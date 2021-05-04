@@ -15,19 +15,19 @@ adil el-faruqi 19104081
 
 
 # Label
-![3](https://user-images.githubusercontent.com/72428662/117062397-95aa8700-ad4d-11eb-9a6a-25476f565486.jpg)
+![3](https://i.ibb.co/S7721GW/Screenshot-20210505-023157-Parallel-Space-64-Bit-Support.jpg)
 
 
 
 # Line edit
-![4](https://user-images.githubusercontent.com/72428662/117062410-99d6a480-ad4d-11eb-9e3c-27b1a624e8d3.jpg)
+![4](https://i.ibb.co/Qpc4FqS/Screenshot-20210505-023314-Parallel-Space-64-Bit-Support.jpg)
 
 
 
 # Push Button
-![5](https://user-images.githubusercontent.com/72428662/117062429-9fcc8580-ad4d-11eb-9d5f-b6e572843e7f.jpg)
+![5](https://i.ibb.co/F04xsCz/Screenshot-20210505-023709-Parallel-Space-64-Bit-Support.jpg)
 
 
 
 # Main Window
-![Capture](https://user-images.githubusercontent.com/72428662/117062456-a6f39380-ad4d-11eb-95bd-55d667ff651e.PNG)
+![Capture](https://i.ibb.co/WgKNLBm/Capture.png)
