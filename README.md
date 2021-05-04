@@ -10,7 +10,7 @@ adil el-faruqi 19104081
 
 
 # Text Edit
-![2](https://user-images.githubusercontent.com/72428662/117062376-90e5d300-ad4d-11eb-8195-aec359be058f.jpg)
+![2](https://i.ibb.co/27mQkG3/Screenshot-20210505-023041-Parallel-Space-64-Bit-Support.jpg)
 
 
 
