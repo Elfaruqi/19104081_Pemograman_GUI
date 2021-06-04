@@ -21,4 +21,6 @@
 
 ![2](https://github.com/yakuza21/19104081_Pemograman_GUI/blob/UTS/schoot02.png)
 
+![3](https://github.com/yakuza21/19104081_Pemograman_GUI/blob/UTS/schoot02.1.png)
+
 
