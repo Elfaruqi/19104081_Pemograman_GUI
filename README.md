@@ -9,7 +9,14 @@
 
 
 
-
-# Screenshoot
+# NO-01
 
 ![1](https://github.com/yakuza21/19104081_Pemograman_GUI/blob/UTS/schoot01.png)
+
+
+
+
+
+# NO-02
+
+![2]
