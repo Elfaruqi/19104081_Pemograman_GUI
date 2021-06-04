@@ -1,7 +1,5 @@
 # ADIL EL-FARUQI
-
 # 19104081
-
 # S1-SE-03-B
 
 
